@@ -28,8 +28,7 @@ func selectionSort(_ array: [String]) -> [String] {
 }
 
 let a = selectionSort(words)
-/**
+
 for x in a{
     print(x)
 }
-**/
